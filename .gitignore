@@ -1,0 +1,15 @@
+# Built mod output - distributed via Steam Workshop, never committed.
+*.pak
+*.ucas
+*.utoc
+
+# Unreal-generated (in case anyone builds inside this tree).
+Saved/
+Intermediate/
+Binaries/
+DerivedDataCache/
+
+# OS cruft.
+Thumbs.db
+.DS_Store
+desktop.ini

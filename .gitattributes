@@ -1,0 +1,6 @@
+# Unreal binary assets: never line-diff, never normalize EOLs, never auto-merge.
+*.uasset binary
+*.umap   binary
+*.uexp   binary
+*.ubulk  binary
+*.png    binary

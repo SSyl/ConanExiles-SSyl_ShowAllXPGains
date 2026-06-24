@@ -1,0 +1,23 @@
+{
+	"name": "Show All XP Gains",
+	"description": "Lowers the XP threshold that controls when the experience gain bar appears shows to 1 XP, so all XP gains are shown.\r\n\r\nBy default the game hides any gain under 20 XP,  which means low XP rates will often never show a popup even though you do receive the XP. This makes every gain visible. Purely a tiny UI change. This does NOT alter how much XP you actually earn.",
+	"changeNote": "Initial release.",
+	"author": "SSyl",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamTestLivePublishedFileId": "",
+	"steamWorkshopFileIds":
+	{
+		"mainClient": "3748062292"
+	},
+	"steamVisibility": 0,
+	"folderName": "ShowAllXPGains",
+	"devkitRevisionNumber": 1001,
+	"devkitSnapshotId": 0,
+	"fileSize": 0,
+	"minimumVersion": "Enhanced"
+}
